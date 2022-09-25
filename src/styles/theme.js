@@ -6,8 +6,8 @@ let theme = createTheme({
     white: "#fff",
     black: "#000",
     background: {
-      light: "#418a79",
-      main: "#1d6e4f",
+      light: "#9fc5e8",
+      main: "#6fa8dc",
       primary: "#1c3633",
       dark: "#2e3030",
       // paper: "#3B3B3B",
@@ -16,7 +16,7 @@ let theme = createTheme({
       main: '#303030'
     },
     text: {
-      primary: "#e6e6e6",
+      primary: "#ffffff",
       secondary: "#d1d1d1",
       disabled: "#ffffff80",
       icon: "#ffffff80",
@@ -35,13 +35,13 @@ let theme = createTheme({
       1200: "#919191",
     },
     textField: {
-      main: "#e7ebfd",
+      main: "#ffffff",
     },
     // primary: {
     //   main: "#1f5f61",
     // },
     primary: {
-      main: "#3fa7ff",
+      main: "#ffffff",
       light: "#fff7e8",
     },
     secondary: {
